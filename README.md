@@ -1,7 +1,7 @@
 # Bike-Buyers-
-Data Analysis Project with Excel
-The File consists of four sheets : 
-1- The original data `Bike Buyers`
-2- `Working Sheet`
-3- `Pivot Table`
-4- `Dashboard` 
+Data Analysis Project with Excel <br> 
+The File consists of four sheets : <br> 
+1- The original data `Bike Buyers` <br> 
+2- `Working Sheet` <br> 
+3- `Pivot Table`<br> 
+4- `Dashboard` <br> 
